@@ -1,0 +1,2 @@
+# MyFirstUnityProjectOnGitHub
+Assignment no.02 MyFirstUnityProjectOnGitHub
